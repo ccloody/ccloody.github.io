@@ -1,0 +1,74 @@
+h1, h2 {
+    text-align: center;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+h2 {
+    font-size: 20px;
+}
+h3{
+    margin-top: 50px;
+}
+
+header {
+overflow: hidden;
+background-color: rgba(64, 65, 55, 0.411);
+}
+
+.intro{
+    text-align: center;
+}
+
+.myul{
+display: inline-block;
+text-align: left;
+}
+body{
+    margin: 0;
+}
+
+main{
+    background-color:rgba(236, 248, 125, 0.363);
+}
+
+img {
+    margin-top: 50px;
+}
+.solid-line{
+    border-top: 10px solid;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+
+.About-Me{
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.p1 {
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.contact-list{
+display: inline-block;
+text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color:rgba(64, 65, 55, 0.411);
+    overflow: hidden;
+}
